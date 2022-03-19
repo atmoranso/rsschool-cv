@@ -17,3 +17,28 @@ My whole life I work in IT industry, but time to time in different directions. C
 - Adobe Photoshop, Lightroom, Figma, and many other buzzwords
 
 ---
+### Code example:
+**try to fix this code**
+```JavaScript
+let iKnow;
+let youKnow;
+let wholeWorldKnow;
+let howMuchTime = undefined;
+function solution () {
+    return iKnow + youKnow + wholeWorldKnow;
+    }
+setTimeout(solution, howMuchTime);
+```
+---
+### Education
+ * Musical college №1, specialty: piano
+ * English course "intermediate"
+ * YouTube video: How to make "bablo" button
+
+---
+
+### Languages
+* **Russian** - native
+* **Ukrainian** - fluent
+* **English** - A2 (pre-intermediate/intermediate)
+* **Portugal**  - know the word "Obrigado"
